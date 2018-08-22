@@ -1,0 +1,7 @@
+t 2,8,8
+w 2,20
+d 10,3,4
+e
+The first line is for tables info. Amount of tables and each table's capacity.
+The second line is the amount of waiters and the maximum amount for payment.
+The last one is the amount of waiting time for Customer, Waiter, Doorman.
